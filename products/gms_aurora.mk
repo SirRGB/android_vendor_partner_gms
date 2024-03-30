@@ -4,4 +4,4 @@ PRODUCT_PACKAGES += \
   FakeStore \
   LocalGsmNlpBackend \
   NominatimGeocoderBackend \
-  AuroraStore \
+  AuroraStore
